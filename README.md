@@ -6,13 +6,53 @@
 
 VoltWise AI is an intelligent energy forecasting platform that predicts the **Net Electrical Energy Output (PE)** of Combined Cycle Power Plants (CCPP) using Deep Learning and Interactive Analytics.
 
-### 🌐 Live Application
+---
+
+# 🌐 Live Application
 
 https://voltwise-ai.streamlit.app/
 
-### 💻 GitHub Repository
+# 💻 GitHub Repository
 
 https://github.com/SQUADRON-LEADER/VoltWise-AI
+
+---
+
+# 📸 Application Screenshots
+
+> Replace these image paths with your actual screenshots stored inside a `screenshots/` folder.
+
+## 🏠 Dashboard Home
+
+```text
+screenshots/dashboard_home.png
+```
+
+---
+
+## 📊 Prediction Dashboard
+
+```text
+screenshots/prediction_dashboard.png
+```
+
+---
+
+## ⚡ Energy Output Prediction
+
+```text
+screenshots/output_prediction.png
+```
+
+---
+
+## 🎥 Demo GIF (Optional)
+
+You can also add a GIF demonstration.
+
+```text
+screenshots/demo.gif
+```
 
 ---
 
@@ -347,10 +387,16 @@ VoltWise-AI/
 ├── DateFruit_Dataset.csv
 ├── requirements.txt
 ├── LICENSE
-└── README.md
+├── README.md
+└── screenshots/
+
+    ├── dashboard_home.png
+    ├── prediction_dashboard.png
+    ├── output_prediction.png
+    └── demo.gif
 ```
 
-The repository contains datasets, machine learning notebooks, the trained model, and the Streamlit application used for deployment.
+The repository contains datasets, machine learning notebooks, the trained model, screenshots, and the Streamlit application used for deployment.
 
 ---
 
