@@ -10,7 +10,6 @@ https://voltwise-ai.streamlit.app/
 
 # 💻 GitHub Repository
 https://github.com/SQUADRON-LEADER/VoltWise-AI
-
 ---
 
 # 📸 Application Screenshots
