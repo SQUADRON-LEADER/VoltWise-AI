@@ -13,15 +13,12 @@ https://github.com/SQUADRON-LEADER/VoltWise-AI
 ---
 
 # 📸 Application Screenshots
-
 > Replace these image paths with your actual screenshots stored inside a `screenshots/` folder.
 
 ## 🏠 Dashboard Home
-
 ```text
 screenshots/dashboard_home.png
 ```
-
 ---
 
 ## 📊 Prediction Dashboard
