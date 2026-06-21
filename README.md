@@ -398,9 +398,6 @@ Upcoming enhancements include:
 * [ ] Carbon Emission Analytics
 * [ ] Energy Optimization Engine
 * [ ] Advanced Dashboard Insights
-* [ ] Mobile Responsive Interface
-* [ ] Cloud Monitoring System
-* [ ] Performance Monitoring
 * [ ] Energy Consumption Analytics
 
 ---
