@@ -394,8 +394,6 @@ The repository contains datasets, machine learning notebooks, the trained model,
 # 📈 Future Roadmap
 
 Upcoming enhancements include:
-
-* [ ] IoT Sensor Integration
 * [ ] Time Series Forecasting
 * [ ] Carbon Emission Analytics
 * [ ] Energy Optimization Engine
