@@ -1,7 +1,6 @@
 # ⚡ VoltWise AI
 
 ### Smart Power Plant Energy Forecasting Platform
-
 #### AI-Powered Net Electrical Energy Output Prediction using Artificial Neural Networks (ANN)
 
 VoltWise AI is an intelligent energy forecasting platform that predicts the **Net Electrical Energy Output (PE)** of Combined Cycle Power Plants (CCPP) using Deep Learning and Interactive Analytics.
