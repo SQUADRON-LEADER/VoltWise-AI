@@ -9,7 +9,6 @@ VoltWise AI is an intelligent energy forecasting platform that predicts the **Ne
 https://voltwise-ai.streamlit.app/
 
 # 💻 GitHub Repository
-
 https://github.com/SQUADRON-LEADER/VoltWise-AI
 
 ---
